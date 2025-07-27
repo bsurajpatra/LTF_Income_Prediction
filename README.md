@@ -19,7 +19,8 @@ ltf_income_prediction/
 ├── predict_income.py                            # Predicts income for test dataset
 ├── ltf_income_predictions.csv                   # Final prediction output
 ├── requirements.txt                             # Python dependencies
-└── README.md                                    # Project documentation
+├── README.md                                    # Project documentation
+
 ---
 
 ## ⚙️ Approach
