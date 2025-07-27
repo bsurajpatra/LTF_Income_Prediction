@@ -12,14 +12,15 @@ This project builds a machine learning model that predicts `Target_Variable/Tota
 
 ltf_income_prediction/
 ├── data/
-│ ├── LTF Challenge data with dictionary.xlsx # Provided dataset
-│ └── Predicted_Farmer_Income_Sample_.xlsx # Submission format sample
-├── convert_to_csv.py # Script to extract Excel sheets as CSV
-├── train_model.py # ML model training and MAPE evaluation
-├── predict_income.py # Predicts income for test dataset
-├── ltf_income_predictions.csv # Final prediction output
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+│   ├── LTF Challenge data with dictionary.xlsx   # Provided dataset
+│   └── Predicted_Farmer_Income_Sample_.xlsx     # Submission format sample
+├── convert_to_csv.py                            # Script to extract Excel sheets as CSV
+├── train_model.py                               # ML model training and MAPE evaluation
+├── predict_income.py                            # Predicts income for test dataset
+├── ltf_income_predictions.csv                   # Final prediction output
+├── requirements.txt                             # Python dependencies
+├── README.md                                    # Project documentation
+
 
 
 ---
