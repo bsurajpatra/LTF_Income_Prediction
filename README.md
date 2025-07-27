@@ -8,6 +8,16 @@ This project builds a machine learning model that predicts `Target_Variable/Tota
 
 ---
 
+## 📊 Dataset
+Case Dataset: L&T Finance Challenge Dataset
+The dataset contains:
+
+Training data with farmer demographics, landholding details, and income information
+Test data for prediction
+Data dictionary explaining all features and variables
+
+---
+
 ## 📁 Project Structure
 
 ltf_income_prediction/
