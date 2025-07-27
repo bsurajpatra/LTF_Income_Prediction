@@ -16,6 +16,8 @@ Training data with farmer demographics, landholding details, and income informat
 Test data for prediction
 Data dictionary explaining all features and variables
 
+[L&T Finance Challenge Dataset](https://drive.google.com/drive/folders/1Wp1eGu2eOkXZdKvzBQIF-AfTC0XxabpD)
+
 ---
 
 ## 📁 Project Structure
@@ -95,6 +97,5 @@ python3 predict_income.py
 
 ## 👨‍💻 Author
 
-B. Suraj Patra
-GitHub | Email
+B Suraj Patra
 
