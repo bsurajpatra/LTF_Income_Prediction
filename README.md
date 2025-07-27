@@ -21,8 +21,6 @@ ltf_income_prediction/
 ├── requirements.txt                             # Python dependencies
 ├── README.md                                    # Project documentation
 
-
-
 ---
 
 ## ⚙️ Approach
